@@ -9,11 +9,11 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I was sleeping all day on my "normal-day" pre-Covid.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nazish-16&theme=algolia">
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=nazish-16&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h1>My Github Stats 🏆</h1>
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=nazish-16&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nazish-16&theme=algolia">
 
 <img src="https://github-readme-stats.vercel.app/api?username=nazish-16&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
