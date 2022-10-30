@@ -9,3 +9,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I was sleeping all day on my "normal-day" pre-Covid.
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nazish-16&theme=algolia">
