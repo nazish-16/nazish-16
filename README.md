@@ -1,7 +1,7 @@
 ### Hola, I'm Nazish Ahmed 👋
 
 - 🔭 I’m currently working on Sofi and Orator's Front-end web
-- 🌱 I’m currently learning Chart.js
+- 🌱 I’m currently learning Node.js
 - 👯 I’m looking to collaborate on Discord
 - 🤔 I’m looking for help with Python.
 - 💬 Ask me about Front-end designing and development.
