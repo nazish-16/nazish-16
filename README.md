@@ -5,7 +5,8 @@
 - 👯 I’m looking to collaborate on Discord
 - 🤔 I’m looking for help with Python.
 - 💬 Ask me about Front-end designing and development.
-- 📫 How to reach me: LinkedIn - [Nazish  Ahmed](https://www.linkedin.com/in/nazish-ahmed-920b9a245/) | Discord -  [Frezz1ck](discordapp.com/users/775387817085108235)
+- 📫 LinkedIn - [Nazish  Ahmed](https://www.linkedin.com/in/nazish-ahmed-920b9a245/) 
+- 🎧 Discord -  [Frezz1ck](discordapp.com/users/775387817085108235)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I was sleeping all day on my "normal-day" pre-Covid.
 
