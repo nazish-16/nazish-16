@@ -4,7 +4,7 @@ I'm a 15-year-old student and a web developer, pursuing MPC and preparing for Ea
 
 When away from my IDE, I usually play games on my PC or will be busy reading books.
 
-### My Skills 🤹
+### Key Notes 🤹
 
 - 🔭 I’m currently working on Sofi and Orator's Front-end web
 - 🌱 I’m currently learning Node.js
