@@ -2,7 +2,7 @@
 
 I'm a 15-year-old student and a web developer, pursuing MPC and preparing for Eamcet, Jee-mains at Sri-Chaitanya college Hyderabad. I am passionate about designing and building e-commerce websites and helping out people in their website development work. I like to work in a team and coordinate with the other devs and create something new. I dedicate my time to learning something new alongside my academics.
 
-When away from my IDE, I usually spend time with my family or will be busy reading books.
+When away from my <b>IDE</b>, I usually spend time with my family or will be busy reading books.
 
 ### Key Notes 🤹
 
