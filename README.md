@@ -9,7 +9,7 @@ When away from my IDE, I usually spend time with my family or will be busy readi
 - 🔭 I’m currently working on Sofi and Orator's Front-end web.
 - 🌱 I’m currently learning Bot development.
 - 👯 I’m looking to collaborate on Discord.
-- 🤔 I’m looking for help with Python.
+- 🤔 I’m looking for help with C++.
 - 💬 Ask me about Front-end designing and development.
 - 📫 LinkedIn - [Nazish  Ahmed](https://www.linkedin.com/in/nazish-ahmed-920b9a245/) 
 - 🎧 Discord -  [Frezz1ck](discordapp.com/users/775387817085108235)
