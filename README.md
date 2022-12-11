@@ -16,7 +16,7 @@ When away from my IDE, I usually spend time with my family or will be busy readi
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I was sleeping all day on my "normal-day" pre-Covid.
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nazish-16)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=nazish-16&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h2>My Github Stats 🏆</h2>
 
