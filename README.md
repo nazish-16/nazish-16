@@ -1,8 +1,8 @@
 # Hi there! My name's Nazish Ahmed AKA Frezz1ck 🙋,
 
-I'm a 15-year-old student and a web developer, pursuing MPC and preparing for Eamcet, Jee-mains at Sri-Chaitanya college Hyderabad. I am passionate about designing and building e-commerce websites and helping out people in their website development work. I like to work in a team and coordinate with the other devs and create something new. I dedicate my time to learning something new alongside my academics.
+I am a skilled and dedicated Web developer that is self-taught and self-assured. I have a diverse range of skills, traits, and abilities cultivated through the years and guarantee my success in this line of work. I enjoy developing e-commerce websites, online portfolios, and statistics pages and helping others with their website development work. Working in a team, brainstorming new ideas, and cooperating with other developers are things I enjoy doing. Many of the web development projects Ive worked on, have been built using React.js, Next.js, and Typescript. I spend time learning new topics outside of my academic career.
 
-When away from my IDE, I usually spend time with my family or will be busy reading books.
+Around 2020, I began learning to code. Im a talented designer and developer who wants to help small businesses and underserved areas realize their ambitions. I provide both design and development services for websites and online applications! Although I mostly used the MERN stack, I am continuously investigating other technologies and frameworks that interest me. Id love to hear from you if you want to expand your team with a developer!
 
 ### Key Notes 🤹
 
