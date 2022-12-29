@@ -1,4 +1,4 @@
-# Hi there! My name's Nazish Ahmed AKA Frezz1ck 🙋,
+# Hi there! My name's Nazish Ahmed AKA Frezz1ck 🙋
 
 I am a skilled and dedicated Web developer that is self-taught and self-assured. I have a diverse range of skills, traits, and abilities cultivated through the years and guarantee my success in this line of work. I enjoy developing e-commerce websites, online portfolios, and statistics pages and helping others with their website development work. Working in a team, brainstorming new ideas, and cooperating with other developers are things I enjoy doing. Many of the web development projects Ive worked on, have been built using React.js, Next.js, and Typescript. I spend time learning new topics outside of my academic career.
 
