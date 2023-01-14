@@ -2,7 +2,7 @@
 
 I am a skilled and dedicated Web developer that is self-taught and self-assured. I have a diverse range of skills, traits, and abilities cultivated through the years and guarantee my success in this line of work. I enjoy developing e-commerce websites, online portfolios, and statistics pages and helping others with their website development work. Working in a team, brainstorming new ideas, and cooperating with other developers are things I enjoy doing. Many of the web development projects Ive worked on, have been built using React.js, Next.js, and Typescript. I spend time learning new topics outside of my academic career.
 
-Around 2020, I began learning to code. Im a talented designer and developer who wants to help small businesses and underserved areas realize their ambitions. I provide both design and development services for websites and online applications! Although I mostly used the MERN stack, I am continuously investigating other technologies and frameworks that interest me. Id love to hear from you if you want to expand your team with a developer! 🖤
+Around 2020, I began learning to code. Im a talented designer and developer who wants to help small businesses and underserved areas realize their ambitions. I provide both design and development services for websites and online applications! Although I mostly used the MERN stack, I am continuously investigating other technologies and frameworks that interest me. Id love to hear from you if you want to expand your team with a developer! 
 
 ### Key Notes 🤹
 
