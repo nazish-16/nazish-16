@@ -9,7 +9,7 @@ Around 2020, I began learning to code. Im a talented designer and developer who 
 - 🔭 I’m currently working on Sofi and Orator's Front-end web.
 - 🌱 I’m currently learning Bot development.
 - 👯 I’m looking to collaborate on Discord.
-- 🤔 I’m looking for help with python.
+- 🤔 I’m looking for help with java.
 - 💬 Ask me about Front-end designing and development.
 - 📫 LinkedIn - [Nazish  Ahmed](https://www.linkedin.com/in/nazish-ahmed-920b9a245/) 
 - 🎧 Discord -  [Frezz1ck](https://discordapp.com/users/775387817085108235)
