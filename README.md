@@ -11,8 +11,6 @@ Around 2019, I began learning to code. Im a talented designer and developer who 
 - 💬 Ask me about Front-end designing and development.
 - 📫 LinkedIn - [Nazish  Ahmed](https://www.linkedin.com/in/nazish-ahmed-920b9a245/) 
 - 🎧 Discord -  [Frezz1ck](https://discordapp.com/users/775387817085108235)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I was sleeping all day on my "normal-day" pre-Covid.
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nazish-16&bg_color=000000&color=000000&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
