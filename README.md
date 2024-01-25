@@ -14,7 +14,7 @@ Around 2020, I began learning to code. I'm a talented designer and developer who
 - 📫 LinkedIn - [Nazish  Ahmed](https://www.linkedin.com/in/nazish-ahmed-920b9a245/) 
 - 🎧 Discord -  [Frezz1ck](https://discordapp.com/users/775387817085108235)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nazish-16)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nazish-16&bg_color=101d23&color=4c7f9e&line=4c7b9e&point=18323f&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h2>My Github Stats 🏆</h2>
 
