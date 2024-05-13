@@ -1,5 +1,3 @@
-# Hi there! My name's Nazish,
-
 ### Key Notes 🤹
 
 - 🔭 Self learned developer
