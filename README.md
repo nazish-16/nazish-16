@@ -2,7 +2,7 @@
 
 - 🔭 Self learned developer
 - 👯 I’m looking to collaborate on Discord.
-- 💬 Ask me about Ui/Ux designing and development.
+- 💬 Ask me about anything related to full stack development
 - 📫 LinkedIn - [Nazish  Ahmed](https://www.linkedin.com/in/nazish-ahmed-920b9a245/) 
 - 🎧 Discord -  [Frezz1ck](https://discordapp.com/users/775387817085108235)
 
