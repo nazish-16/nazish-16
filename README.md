@@ -14,6 +14,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=nazish-16&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=nazish-16&layout=compact&theme=react&hide_border=true&bg_color=0D1117&v=2">
+
 <h2>Reach me 🤝</h2>
 
 <a href="https://discordapp.com/users/775387817085108235">
