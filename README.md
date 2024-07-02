@@ -14,7 +14,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=nazish-16&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazish-16&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nazish-16&show_icons=true&bg_color=00000000)
 
 <h2>Reach me 🤝</h2>
 
