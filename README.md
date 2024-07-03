@@ -12,7 +12,7 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazish-16&theme=algolia">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nazish-16&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=nazish-16&&show_icons=true&title_color=FFFF00&icon_color=FFFF00&text_color=000000&bg_color=FFFF00">
 
 <h2>Reach me 🤝</h2>
 
