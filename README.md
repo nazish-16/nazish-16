@@ -20,6 +20,8 @@
 <img src="https://camo.githubusercontent.com/464dd39381fb411581557d60bf0737e54a6cdfb24a4611a423a843291e9ba4e4/68747470733a2f2f636c69706c792e636f2f77702d636f6e74656e742f75706c6f6164732f323032312f30382f3337323130383633305f444953434f52445f4c4f474f5f3430302e676966" width="100px"> 
 </a> 
 
+https://raw.githubusercontent.com/nazish-16/nazish-16/output/github-snake-dark.svg#gh-dark-mode-only
+
 <h2>My Skills 🛠️</h2>
 
 <h3>Programming Technologies I support 💻</h3>
