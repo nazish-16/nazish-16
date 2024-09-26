@@ -6,14 +6,12 @@
   <a href="mailto:realnazishahmed@gmail.com"><img src="https://img.shields.io/badge/-nazish16@example.com-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
-- 🌱 I’m currently learning **Express.js, and mongoDB**
+- 🌱 I’m currently learning **Express.js, and MongoDB**
 - 👨‍💻 All of my projects are available at [https://github.com/nazish-16](https://github.com/nazish-16)
 - 💬 Ask me about **App Development, JavaScript, and Full Stack Development**
 - ⚡ Fun fact: **JavaScript was created in just 10 days by Brendan Eich**
 
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nazish-16&bg_color=20232A&color=FFFFFF&line=6495ED&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -44,6 +42,16 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nazish-16&show_icons=true&theme=react&layout=compact" alt="nazish-16" />
+</p>
+
+<h3 align="left">Profile Views:</h3>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=nazish-16&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+</p>
+
+<h3 align="left">GitHub Streak:</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazish-16&theme=react" alt="Streak Stats" />
 </p>
 
 <!-- Profile Views Counter -->
