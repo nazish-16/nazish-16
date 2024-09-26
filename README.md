@@ -11,6 +11,10 @@
 - 💬 Ask me about **App Development, JavaScript, and Full Stack Development**
 - ⚡ Fun fact: **JavaScript was created in just 10 days by Brendan Eich**
 
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nazish-16&bg_color=000000&color=FFFF00&line=FFFF00&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
