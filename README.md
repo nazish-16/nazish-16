@@ -1,13 +1,35 @@
-### Key Notes 🤹
+<h1 align="center">Hi 👋, I'm Nazish</h1>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
-- 🔭 Full stack developer
-- 📫 LinkedIn - [Nazish  Ahmed](https://www.linkedin.com/in/nazish-ahmed-920b9a245/) 
-- 🎧 Discord -  [Frezz1ck](https://discordapp.com/users/775387817085108235)
+<p align="center">
+  <a href="https://www.linkedin.com/in/nazish-16/"><img src="https://img.shields.io/badge/-nazish16-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:nazish@example.com"><img src="https://img.shields.io/badge/-nazish16@example.com-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail"></a>
+</p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nazish-16&bg_color=000000&color=FFFF00&line=FFFF00&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+- 🌱 I’m currently learning **React, Node.js, and Framer Motion**
+- 👨‍💻 All of my projects are available at [https://github.com/nazish-16](https://github.com/nazish-16)
+- 💬 Ask me about **Web Development, JavaScript, and Full Stack Development**
+- ⚡ Fun fact: **I love volleyball and leading teams!**
 
-<h2>My Github Stats 🏆</h2>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nazish-16&theme=dark">
+<h3 align="left">GitHub Stats:</h3>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nazish-16&show_icons=true&theme=radical" alt="nazish-16" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=nazish-16&&show_icons=true&title_color=FFFF00&icon_color=FFFF00&text_color=FFFF00&bg_color=000000">
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nazish-16&show_icons=true&theme=radical&layout=compact" alt="nazish-16" />
+</p>
+
+<!-- Profile Views Counter -->
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=nazish-16&label=Profile%20views&color=0e75b6&style=flat" alt="nazish-16" /> 
+</p>
