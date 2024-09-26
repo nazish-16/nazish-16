@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nazish-16&show_icons=true&theme=react&layout=compact" alt="nazish-16" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nazish-16&show_icons=true&theme=radical&layout=compact" alt="nazish-16" />
 </p>
 
 <!-- Profile Views Counter -->
