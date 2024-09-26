@@ -44,11 +44,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nazish-16&show_icons=true&theme=react&layout=compact" alt="nazish-16" />
 </p>
 
-<h3 align="left">Profile Views:</h3>
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=nazish-16&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
-</p>
-
 <h3 align="left">GitHub Streak:</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazish-16&theme=react" alt="Streak Stats" />
