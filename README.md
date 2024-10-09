@@ -6,7 +6,7 @@
   <a href="mailto:realnazishahmed@gmail.com"><img src="https://img.shields.io/badge/-realnazishahmed@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
-- 🌱 I’m currently learning **Express.js, and MongoDB**
+- 🌱 I’m currently learning **Vue.js, and MongoDB**
 - 👨‍💻 All of my projects are available at [https://github.com/nazish-16](https://github.com/nazish-16)
 - 💬 Ask me about **App Development, JavaScript, and Full Stack Development**
 - ⚡ Fun fact: **JavaScript was created in just 10 days by Brendan Eich**
