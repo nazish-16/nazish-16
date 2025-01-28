@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Vue.js, and MongoDB**
 - 👨‍💻 All of my projects are available at [https://github.com/nazish-16](https://github.com/nazish-16)
 - 💬 Ask me about **App Development, JavaScript, and Full Stack Development**
-- ⚡ Fun fact: **JavaScript was created in just 10 days**
+- ⚡ Fun fact: **The term “bug” in programming was inspired by a real insect.**
 
 ---
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nazish-16&bg_color=20232A&color=FFFFFF&line=6495ED&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
