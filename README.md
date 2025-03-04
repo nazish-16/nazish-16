@@ -7,7 +7,7 @@
 </p>
 
 - 🌱 I’m currently learning **Vue.js, and MongoDB**
-- 👨‍💻 All of my projects are available at [https://github.com/nazish-16](https://github.com/nazish-16)
+- 👨‍💻 All of my projects are available at [my github](https://github.com/nazish-16)
 - 💬 Ask me about **App Development, JavaScript, and Full Stack Development**
 - ⚡ Fun fact: **The term “bug” in programming was inspired by a real insect.**
 
