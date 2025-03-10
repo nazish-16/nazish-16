@@ -35,13 +35,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/nazish-16/nazish-16/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
-</p>
-
----
-
 ## 🚀 Tech Stack
 ### 💻 Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
@@ -72,13 +65,6 @@
 ## 💡 Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" alt="Dev Quote">
-</p>
-
----
-
-## 🎵 Now Playing
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31i34yqpy3slwtglggfsnffgp4fa&cover_image=true&theme=novatorem" alt="Spotify Playing" />
 </p>
 
 ---
