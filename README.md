@@ -35,6 +35,13 @@
 
 ---
 
+## 📈 GitHub Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nazish-16&bg_color=20232A&color=FFFFFF&line=6495ED&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
 ## 🚀 Tech Stack
 ### 💻 Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
