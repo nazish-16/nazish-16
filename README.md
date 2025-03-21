@@ -1,4 +1,4 @@
-### Hi there! I'm Nazish Ahmed <img src="https://raw.githubusercontent.com/nazish-16/nazish-16/main/wave.gif" width="30px">
+### Hola amigo! I'm Nazish Ahmed <img src="https://raw.githubusercontent.com/nazish-16/nazish-16/main/wave.gif" width="30px">
 
 <h1 align="center">Welcome to My GitHub! 🚀</h1>
 
