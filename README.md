@@ -82,9 +82,6 @@
   <a href="mailto:realnazishahmed@gmail.com"><img src="https://img.shields.io/badge/-realnazishahmed@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
----
-
-## 👀 Profile Views
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=nazish-16&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" />
 </p>
