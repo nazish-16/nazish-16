@@ -1,6 +1,4 @@
-### Hola amigo! I'm Nazish Ahmed <img src="https://raw.githubusercontent.com/nazish-16/nazish-16/main/wave.gif" width="30px">
-
-<h1 align="center">Welcome to My GitHub! 🚀</h1>
+<h1 align="center">Hey there, I'm Nazish Ahmed</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nazish-ahmed-920b9a245/"><img src="https://img.shields.io/badge/-nazish16-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
