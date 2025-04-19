@@ -53,11 +53,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### ☁️ Cloud & Hosting
-![AWS](https://img.shields.io/badge/-AWS-green?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-purple?style=for-the-badge&logo=heroku&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-yellow?style=for-the-badge&logo=firebase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)
@@ -70,10 +67,5 @@
 ![Postman](https://img.shields.io/badge/-Postman-orange?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
-
-## 🌄 Aesthetic Break
-<p align="center">
-  <img src="https://wallup.net/wp-content/uploads/2016/01/2560x1600-Beautiful_Forest_Green_Lake_Landscape.jpg" alt="Scenic Image 1" width="400" />
-  <img src="https://wallup.net/wp-content/uploads/2016/01/2526x1358-nature_Landscape_Lake_Mountain_Forest_Wildflowers_Spring_Pine_Trees_Path_Switzerland_HDR.jpg" alt="Scenic Image
-::contentReference[oaicite:1]{index=1}
+<p align="center"> <!-- GitHub Profile Views Counter --> <img src="https://komarev.com/ghpvc/?username=nazish-16&color=FF4136&style=flat-square" alt="Profile Views" /> <!-- GitHub Followers --> <img src="https://img.shields.io/github/followers/nazish-16?label=Followers&style=flat-square&color=FF4136" alt="GitHub Followers" /> <!-- GitHub User Stars --> <img src="https://img.shields.io/github/stars/nazish-16?color=FF4136&style=flat-square" alt="GitHub Stars" /> <!-- GitHub Contributions (custom image) --> <img src="https://github-contributions-api.deno.dev/nazish-16.svg" alt="nazish-16's GitHub Contribution Graph" /> </p>
  
