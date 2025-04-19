@@ -67,12 +67,13 @@
 ![Postman](https://img.shields.io/badge/-Postman-orange?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
-<p align="center"> <!-- GitHub Profile Views Counter --> <img src="https://komarev.com/ghpvc/?username=nazish-16&color=FF4136&style=flat-square" alt="Profile Views" /> <!-- GitHub Followers --> <img src="https://img.shields.io/github/followers/nazish-16?label=Followers&style=flat-square&color=FF4136" alt="GitHub Followers" /> <!-- GitHub User Stars --> <img src="https://img.shields.io/github/stars/nazish-16?color=FF4136&style=flat-square" alt="GitHub Stars" />### 🏙️ GitHub Skyline
+<p align="center"> <!-- GitHub Profile Views Counter --> <img src="https://komarev.com/ghpvc/?username=nazish-16&color=FF4136&style=flat-square" alt="Profile Views" /> <!-- GitHub Followers --> <img src="https://img.shields.io/github/followers/nazish-16?label=Followers&style=flat-square&color=FF4136" alt="GitHub Followers" /> <!-- GitHub User Stars --> <img src="https://img.shields.io/github/stars/nazish-16?color=FF4136&style=flat-square" alt="GitHub Stars" />
+
+### ⚙️ What I Work With
 
 <p align="center">
-  <img src="https://github.com/nazish-16/nazish-16/assets/12345678/your-skyline-screenshot.png" alt="GitHub Skyline" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,python,aws,firebase,git,vscode" />
 </p>
 
-> View your 3D GitHub contribution skyline here: [skyline.github.com](https://skyline.github.com/nazish-16)
 
  
