@@ -5,39 +5,32 @@
   <a href="mailto:realnazishahmed@gmail.com"><img src="https://img.shields.io/badge/-realnazishahmed@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
-## 🔥 About Me
-- 🎯 Passionate **Full Stack Developer** building scalable web apps
-- 🌱 Currently learning **Vue.js, MongoDB, and GraphQL**
-- 💻 Check out my projects at [GitHub](https://github.com/nazish-16)
-- 💬 Ask me about **React, JavaScript, App Development**
-- 🎮 Fun fact: **I turn caffeine into code! ☕**
-
 ---
 
-## ✨ Highlight Projects
-Here are a few standout projects that showcase my skills and passion:
-
-- 📸 [Memora](https://github.com/nazish-16/memora) - A memory internet platform to relive your moments.
-- 🚀 [Tesla Clone](https://github.com/nazish-16/tesla-clone) - Recreated Tesla's stunning UI with Next.js & Tailwind CSS.
-- 🧠 [AI Health Diagnostic Tool](https://github.com/nazish-16/telehealth-ai) - Smart diagnostic system for rural healthcare.
+## 🔧 Currently Working On
+- 🚀 Building **Memora**, a memory-based web platform using the MERN stack
+- 🤝 Collaborating with **Electroplix** to deliver full-stack solutions
+- 🎓 Balancing dev life with college at **Osmania University**
+- 🧪 Experimenting with **MongoDB Atlas Search** for smarter data retrieval
+- ✨ Learning **AI + Web integration** for future innovation
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nazish-16&show_icons=true&theme=react&title_color=6495ED&icon_color=6495ED&text_color=ffffff&bg_color=20232A" alt="nazish-16" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nazish-16&show_icons=true&theme=react&layout=compact&title_color=6495ED&text_color=ffffff&bg_color=20232A" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nazish-16&show_icons=true&theme=dark&title_color=FF4136&icon_color=FF4136&text_color=ffffff&bg_color=1A1A1A" alt="nazish-16" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nazish-16&show_icons=true&theme=dark&layout=compact&title_color=FF4136&text_color=ffffff&bg_color=1A1A1A" alt="Most Used Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazish-16&theme=react&background=20232A&ring=6495ED&fire=6495ED&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazish-16&theme=dark&background=1A1A1A&ring=FF4136&fire=FF4136&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="Streak Stats" />
 </p>
 
 ---
 
 ## 📈 GitHub Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nazish-16&bg_color=20232A&color=ffffff&line=6495ED&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nazish-16&bg_color=1A1A1A&color=ffffff&line=FF4136&point=FF4136&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -71,7 +64,7 @@ Here are a few standout projects that showcase my skills and passion:
 
 ## 💡 Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" alt="Dev Quote">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote">
 </p>
 
 ---
@@ -83,5 +76,5 @@ Here are a few standout projects that showcase my skills and passion:
 </p>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=nazish-16&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views Counter" />
+  <img src="https://komarev.com/ghpvc/?username=nazish-16&label=Profile%20views&color=FF4136&style=flat" alt="Profile Views Counter" />
 </p>
