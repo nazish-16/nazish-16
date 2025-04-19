@@ -14,28 +14,30 @@
 
 ---
 
-## 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nazish-16&theme=onestar&no-frame=false&no-bg=true&margin-w=15" alt="Trophies">
-</p>
+## ✨ Highlight Projects
+Here are a few standout projects that showcase my skills and passion:
+
+- 📸 [Memora](https://github.com/nazish-16/memora) - A memory internet platform to relive your moments.
+- 🚀 [Tesla Clone](https://github.com/nazish-16/tesla-clone) - Recreated Tesla's stunning UI with Next.js & Tailwind CSS.
+- 🧠 [AI Health Diagnostic Tool](https://github.com/nazish-16/telehealth-ai) - Smart diagnostic system for rural healthcare.
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nazish-16&show_icons=true&theme=react" alt="nazish-16" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nazish-16&show_icons=true&theme=react&layout=compact" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nazish-16&show_icons=true&theme=react&title_color=6495ED&icon_color=6495ED&text_color=ffffff&bg_color=20232A" alt="nazish-16" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nazish-16&show_icons=true&theme=react&layout=compact&title_color=6495ED&text_color=ffffff&bg_color=20232A" alt="Most Used Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazish-16&theme=react" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazish-16&theme=react&background=20232A&ring=6495ED&fire=6495ED&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="Streak Stats" />
 </p>
 
 ---
 
 ## 📈 GitHub Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nazish-16&bg_color=20232A&color=FFFFFF&line=6495ED&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nazish-16&bg_color=20232A&color=ffffff&line=6495ED&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
@@ -74,7 +76,7 @@
 
 ---
 
-## 🚀 Connect with Me
+## 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/nazish-ahmed-920b9a245/"><img src="https://img.shields.io/badge/-nazish16-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:realnazishahmed@gmail.com"><img src="https://img.shields.io/badge/-realnazishahmed@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail"></a>
