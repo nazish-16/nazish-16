@@ -8,15 +8,16 @@
 ---
 
 ## 🔧 Currently Working On
-- 🚀 Building **Memora**, a memory-based web platform using the MERN stack
-- 🤝 Leading development at **Electroplix**, delivering full-stack solutions
-- 🎓 Balancing dev life with studies at **Deccan Engineering College**
-- 🧪 Exploring **MongoDB Atlas Search** for smarter data retrieval
-- ✨ Integrating **AI** into web applications for innovative solutions
+- 🚀 Building **Memora**, a memory-based web platform using the MERN stack  
+- 🤝 Leading development at **Electroplix**, delivering full-stack solutions  
+- 🎓 Balancing dev life with studies at **Deccan Engineering College**  
+- 🧪 Exploring **MongoDB Atlas Search** for smarter data retrieval  
+- ✨ Integrating **AI** into web applications for innovative solutions  
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nazish-16&show_icons=true&theme=dark&title_color=FF4136&icon_color=FF4136&text_color=ffffff&bg_color=1A1A1A" alt="nazish-16" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nazish-16&show_icons=true&theme=dark&layout=compact&title_color=FF4136&text_color=ffffff&bg_color=1A1A1A" alt="Most Used Languages" />
@@ -28,9 +29,35 @@
 
 ---
 
-## 📈 GitHub Activity Graph
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nazish-16&theme=darkhub&no-frame=true&title=Stars,Commits,Followers,PRs,Issues,Repositories&margin-w=10&column=3" />
+</p>
+
+---
+
+## 📈 GitHub Contribution Graph
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nazish-16&bg_color=1A1A1A&color=ffffff&line=FF4136&point=FF4136&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nazish-16/nazish-16/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🧠 Contribution Summary Cards
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nazish-16&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nazish-16&theme=github_dark" />
 </p>
 
 ---
@@ -67,13 +94,20 @@
 ![Postman](https://img.shields.io/badge/-Postman-orange?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
-<p align="center"> <!-- GitHub Profile Views Counter --> <img src="https://komarev.com/ghpvc/?username=nazish-16&color=FF4136&style=flat-square" alt="Profile Views" /> <!-- GitHub Followers --> <img src="https://img.shields.io/github/followers/nazish-16?label=Followers&style=flat-square&color=FF4136" alt="GitHub Followers" /> <!-- GitHub User Stars --> <img src="https://img.shields.io/github/stars/nazish-16?color=FF4136&style=flat-square" alt="GitHub Stars" />
+
+<p align="center">
+  <!-- Profile Views --> 
+  <img src="https://komarev.com/ghpvc/?username=nazish-16&color=FF4136&style=flat-square" alt="Profile Views" /> 
+  <!-- GitHub Followers --> 
+  <img src="https://img.shields.io/github/followers/nazish-16?label=Followers&style=flat-square&color=FF4136" alt="GitHub Followers" /> 
+  <!-- GitHub Stars --> 
+  <img src="https://img.shields.io/github/stars/nazish-16?color=FF4136&style=flat-square" alt="GitHub Stars" />
+</p>
+
+---
 
 ### ⚙️ What I Work With
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,python,aws,firebase,git,vscode" />
 </p>
-
-
- 
