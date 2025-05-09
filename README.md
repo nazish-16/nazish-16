@@ -8,11 +8,11 @@
 ---
 
 ## 🔧 Currently Working On
-- 🚀 Building **Memora**, a memory-based web platform using the MERN stack
-- 🤝 Leading development at **Electroplix**, delivering full-stack solutions
-- 🎓 Balancing dev life with studies at **Deccan Engineering College**
-- 🧪 Exploring **MongoDB Atlas Search** for smarter data retrieval
-- ✨ Integrating **AI** into web applications for innovative solutions
+- 🚀 Building **Memora**, a memory-based platform.
+- 🤝 Leading development at **Electroplix**, delivering full-stack solutions.
+- 🎓 Balancing dev life with studies at **Deccan Engineering College**.
+- 🧪 Exploring **MongoDB Atlas Search** for smarter data retrieval.
+- ✨ Integrating **AI** into web applications for innovative solutions.
 
 ---
 
