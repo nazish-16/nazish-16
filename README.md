@@ -86,5 +86,5 @@
 
 ### ⚙️ What I Work With  
 <p align="center">  
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,reactnative,nodejs,express,mongodb,python,git,docker,figma,firebase,vscode&theme=light" />  
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,python,git,docker,figma,firebase,vscode&theme=light" />  
 </p>
