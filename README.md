@@ -82,7 +82,9 @@
   <img src="https://img.shields.io/github/stars/nazish-16?color=FF4136&style=flat-square" alt="GitHub Stars" />
 </p>
 
-### ⚙️ What I Work With
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,python,git,docker,figma,firebase,vscode&theme=light" />
+---
+
+### ⚙️ What I Work With  
+<p align="center">  
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,reactnative,nodejs,express,mongodb,python,git,docker,figma,firebase,vscode&theme=light" />  
 </p>
