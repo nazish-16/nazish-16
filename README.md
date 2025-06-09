@@ -35,6 +35,21 @@
 
 ---
 
+## 📉 Contribution Graph Calendar
+<p align="center">
+  <img src="https://github-readme-contribution-stats.vercel.app/api/?username=nazish-16" alt="Contribution Calendar" />
+</p>
+
+---
+
+## 🧠 Code Stats by Languages Used
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nazish-16&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nazish-16&theme=dark" />
+</p>
+
+---
+
 ## 🚀 Tech Stack
 
 ### 💻 Programming Languages
