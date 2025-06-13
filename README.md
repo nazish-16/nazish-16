@@ -12,7 +12,7 @@
 - 🤝 Leading development at **Electroplix**, delivering full-stack solutions.
 - 🎓 Balancing dev life with studies at **Deccan Engineering College**.
 - 🧪 Exploring **MongoDB Atlas Search** for smarter data retrieval.
-- ✨ Integrating **AI** into web applications for innovative solutions.
+- ✨ Integrating **AI** into web and applications for innovative solutions.
 
 ---
 
