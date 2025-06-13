@@ -8,7 +8,7 @@
 ---
 
 ## 🔧 Currently Working On
-- 🚀 Building **Flow**, an AI based app which suggests your micro decisions everyday..
+- 🚀 Building **Flow**, an AI based app which suggests your micro decisions everyday.
 - 🤝 Leading development at **Electroplix**, delivering full-stack solutions.
 - 🎓 Balancing dev life with studies at **Deccan Engineering College**.
 - 🧪 Exploring **MongoDB Atlas Search** for smarter data retrieval.
