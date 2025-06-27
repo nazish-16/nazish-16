@@ -92,3 +92,5 @@
 <p align="center">  
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,python,git,docker,figma,firebase,vscode&theme=light" />  
 </p>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
