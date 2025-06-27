@@ -88,3 +88,5 @@
 <p align="center">  
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,python,git,docker,figma,firebase,vscode&theme=light" />  
 </p>
+
+<img src="[https://komarev.com/ghpvc/?username=nazish-16&color=FF4136&style=flat-square](https://user-images.githubusercontent.com/67194519/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif)" alt="gif" />
