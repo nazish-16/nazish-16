@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/realnazish/"><img src="https://img.shields.io/badge/-nazish16-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:realnazishahmed@gmail.com"><img src="https://img.shields.io/badge/-realnazishahmed@gmail.com-0b84f3?style=flat&logo=Gmail&logoColor=white" alt="Gmail"></a>
+  <a href="mailto:inazengg@outlook.com"><img src="https://img.shields.io/badge/-inazengg@outlook.com-0b84f3?style=flat&logo=Gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
 ---
