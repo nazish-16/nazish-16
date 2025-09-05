@@ -11,7 +11,7 @@
 - 🚀 Building an AI based web app which helps building websites.
 - 🤝 Leading development at **Electroplix**, delivering full-stack solutions.
 - 🎓 Balancing dev life with studies at **Deccan Engineering College**.
-- 🧪 Exploring **MongoDB Atlas Search** for smarter data retrieval.
+- 🧪 Exploring **Redis** for smarter data retrieval.
 - ✨ Integrating **AI** into web and applications for innovative solutions.
 
 ---
