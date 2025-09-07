@@ -2,17 +2,19 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/realnazish/"><img src="https://img.shields.io/badge/-realnazish-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:inazengg@outlook.com"><img src="https://img.shields.io/badge/-inazengg@outlook.com-0b84f3?style=flat&logo=Gmail&logoColor=white" alt="Gmail"></a>
+  <a href="mailto:inazengg@outlook.com">
+    <img src="https://img.shields.io/badge/-inazengg@outlook.com-0b84f3?style=flat&logo=Microsoft-Outlook&logoColor=white" alt="Outlook">
+  </a>
 </p>
 
 ---
 
-## 🔧 Currently Working On
-- 🚀 Building an AI based web app which helps building websites.
-- 🤝 Leading development at **Electroplix**, delivering full-stack solutions.
-- 🎓 Balancing dev life with studies at **Deccan Engineering College**.
-- 🧪 Exploring **Redis** for smarter data retrieval.
-- ✨ Integrating **AI** into web and applications for innovative solutions.
+## 🙌 About Me
+- 🚀 Building AI-powered web apps that make website creation seamless.  
+- 🤝 Leading development at **Electroplix**, delivering full-stack solutions.  
+- 🎓 Balancing dev life with studies at **Deccan Engineering College**.  
+- 🧪 Exploring **Redis** for smarter data retrieval.  
+- ✨ Passionate about integrating **AI** into web and applications to drive innovation.  
 
 ---
 
