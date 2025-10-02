@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Nazish Ahmed</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/realnazish/"><img src="https://img.shields.io/badge/-realnazish-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/naengineer/"><img src="https://img.shields.io/badge/-naengineer-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:inazengg@outlook.com">
     <img src="https://img.shields.io/badge/-inazengg@outlook.com-0b84f3?style=flat&logo=Microsoft-Outlook&logoColor=white" alt="Outlook">
   </a>
