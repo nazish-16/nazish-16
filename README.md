@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=334155&height=180&section=header&text=Nazish%20Ahmed&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20Product%20Builder&descAlignY=52&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=334155&height=180&section=header&text=Nazish%20Ahmed&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Software%20Developer%20%7C%20Product%20Architect&descAlignY=52&descSize=18" width="100%"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/naengineer/"><img src="https://img.shields.io/badge/-naengineer-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
