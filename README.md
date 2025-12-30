@@ -10,11 +10,11 @@
 ---
 
 ## 🙌 About Me
-- 🚀 Building AI-powered web apps that make website creation seamless.  
-- 🤝 Leading development at **Electroplix**, delivering full-stack solutions.  
-- 🎓 Balancing dev life with studies at **Deccan Engineering College**.  
-- 🧪 Exploring **Redis** for smarter data retrieval.  
-- ✨ Passionate about integrating **AI** into web and applications to drive innovation.  
+- Building AI-powered web apps that make website creation seamless.  
+- Leading development at **Electroplix**, delivering full-stack solutions.  
+- Balancing dev life with studies at **Deccan Engineering College**.  
+- Exploring **Redis** for smarter data retrieval.  
+- Passionate about integrating **AI** into web and applications to drive innovation.  
 
 ---
 
@@ -47,31 +47,31 @@
 
 ## 🚀 Tech Stack
 
-### 💻 Programming Languages
+### Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323A45?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-323A45?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![Python](https://img.shields.io/badge/-Python-323A45?style=for-the-badge&logo=python&logoColor=3776AB)
 ![C](https://img.shields.io/badge/-C-323A45?style=for-the-badge&logo=c&logoColor=A8B9CC)
 
-### 🎨 Frontend
+### Frontend
 ![React](https://img.shields.io/badge/-React-323A45?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/-Next.js-323A45?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-323A45?style=for-the-badge&logo=vue.js&logoColor=42b883)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-323A45?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-323A45?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 
-### 🧩 Backend & APIs
+### Backend & APIs
 ![Node.js](https://img.shields.io/badge/-Node.js-323A45?style=for-the-badge&logo=node.js&logoColor=339933)
 ![Express.js](https://img.shields.io/badge/-Express.js-323A45?style=for-the-badge&logo=express&logoColor=white)
 ![REST API](https://img.shields.io/badge/-REST%20API-323A45?style=for-the-badge&logo=swagger&logoColor=85EA2D)
 
-### 💾 Databases
+### Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-323A45?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-323A45?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![MySQL](https://img.shields.io/badge/-MySQL-323A45?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![Redis](https://img.shields.io/badge/-Redis-323A45?style=for-the-badge&logo=redis&logoColor=DC382D)
 
-### ☁️ Cloud & Hosting
+### Cloud & Hosting
 ![AWS](https://img.shields.io/badge/-AWS-323A45?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-323A45?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
 ![Firebase](https://img.shields.io/badge/-Firebase-323A45?style=for-the-badge&logo=firebase&logoColor=FFCA28)
@@ -79,10 +79,10 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-323A45?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/-Netlify-323A45?style=for-the-badge&logo=netlify&logoColor=00C7B7)
 
-### ⚙️ DevOps & Infra
+### DevOps & Infra
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-323A45?style=for-the-badge&logo=githubactions&logoColor=2088FF)
 
-### 🧰 Tools & Utilities
+### Tools & Utilities
 ![Git](https://img.shields.io/badge/-Git-323A45?style=for-the-badge&logo=git&logoColor=F05032)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-323A45?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 ![Postman](https://img.shields.io/badge/-Postman-323A45?style=for-the-badge&logo=postman&logoColor=FF6C37)
