@@ -10,11 +10,7 @@
 ---
 
 ## 🙌 About Me
-- Building AI-powered web apps that make website creation seamless.  
-- Leading development at **Electroplix**, delivering full-stack solutions.  
-- Balancing dev life with studies at **Deccan Engineering College**.  
-- Exploring **Redis** for smarter data retrieval.  
-- Passionate about integrating **AI** into web and applications to drive innovation.  
+im nazish, and i love to build things  
 
 ---
 
