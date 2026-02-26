@@ -9,12 +9,12 @@
 
 ---
 
-## 🙌 About Me
+## About Me
 im nazish, and i love to build things  
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nazish-16&show_icons=true&theme=dark&title_color=00FFBF&icon_color=00FFBF&text_color=ffffff&bg_color=1A1A1A" alt="nazish-16 GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nazish-16&layout=compact&theme=dark&title_color=00FFBF&text_color=ffffff&bg_color=1A1A1A" alt="Top Languages" />
@@ -26,14 +26,14 @@ im nazish, and i love to build things
 
 ---
 
-## 📈 GitHub Activity Graph
+## GitHub Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nazish-16&bg_color=1A1A1A&color=ffffff&line=00FFBF&point=00FFBF&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
-## 🧠 Code Stats
+## Code Stats
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nazish-16&theme=github_dark&title_color=00FFBF&text_color=ffffff" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nazish-16&theme=github_dark&title_color=00FFBF&text_color=ffffff" />
@@ -41,7 +41,7 @@ im nazish, and i love to build things
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-323A45?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
