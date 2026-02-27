@@ -5,11 +5,6 @@
   </a>
 </p>
 
----
-
-## About Me
-im nazish, and i love to build things  
-
 ## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nazish-16&show_icons=true&theme=dark&title_color=00FFBF&icon_color=00FFBF&text_color=ffffff&bg_color=1A1A1A" alt="nazish-16 GitHub Stats" />
