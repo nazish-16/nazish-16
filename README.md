@@ -1,4 +1,4 @@
-<a href="https://pixel-profile.vercel.app/api/github-stats?username=nazish-16"></a>
+[<a href="https://pixel-profile.vercel.app/api/github-stats?username=nazish-16"></a>](https://pixel-profile.vercel.app/api/github-stats?username=nazish-16&theme=road_trip&pixelate_avatar=false)
 
 <p align="center">
   <a href="https://www.nazish.site"><img src="https://img.shields.io/badge/-portfolio-0b84f3?style=flat&logo=Linkedin&logoColor=white" alt="Website"></a>
