@@ -1,4 +1,3 @@
-<img src="https://pixel-profile.vercel.app/api/github-stats?username=nazish-16&theme=road_trip&pixelate_avatar=false"/>
 <p align="center">
   <a href="https://www.nazish.site"><img src="https://img.shields.io/badge/-portfolio-0b84f3?style=flat&logo=Linkedin&logoColor=white" alt="Website"></a>
   <a href="https://www.linkedin.com/in/naengineer/"><img src="https://img.shields.io/badge/-naengineer-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
