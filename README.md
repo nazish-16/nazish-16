@@ -39,49 +39,7 @@
 
 ---
 
-## Tech Stack
-
-### Programming Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-111111?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-111111?style=for-the-badge&logo=c&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/-React-111111?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-111111?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-111111?style=for-the-badge&logo=vue.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-111111?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### Backend & APIs
-![Node.js](https://img.shields.io/badge/-Node.js-111111?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-111111?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20API-111111?style=for-the-badge&logo=swagger&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-111111?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-111111?style=for-the-badge&logo=redis&logoColor=white)
-
-### Cloud & Hosting
-![AWS](https://img.shields.io/badge/-AWS-111111?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-111111?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-111111?style=for-the-badge&logo=firebase&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-111111?style=for-the-badge&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-111111?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/-Netlify-111111?style=for-the-badge&logo=netlify&logoColor=white)
-
-### DevOps & Infra
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-111111?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### Tools & Utilities
-![Git](https://img.shields.io/badge/-Git-111111?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-111111?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-111111?style=for-the-badge&logo=figma&logoColor=white)
-![Notion](https://img.shields.io/badge/-Notion-111111?style=for-the-badge&logo=notion&logoColor=white)
+## Tech Stack ### Programming Languages ![JavaScript](https://img.shields.io/badge/-JavaScript-323A45?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TypeScript](https://img.shields.io/badge/-TypeScript-323A45?style=for-the-badge&logo=typescript&logoColor=3178C6) ![Python](https://img.shields.io/badge/-Python-323A45?style=for-the-badge&logo=python&logoColor=3776AB) ![C](https://img.shields.io/badge/-C-323A45?style=for-the-badge&logo=c&logoColor=A8B9CC) ### Frontend ![React](https://img.shields.io/badge/-React-323A45?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/-Next.js-323A45?style=for-the-badge&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/-Vue.js-323A45?style=for-the-badge&logo=vue.js&logoColor=42b883) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-323A45?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-323A45?style=for-the-badge&logo=bootstrap&logoColor=7952B3) ### Backend & APIs ![Node.js](https://img.shields.io/badge/-Node.js-323A45?style=for-the-badge&logo=node.js&logoColor=339933) ![Express.js](https://img.shields.io/badge/-Express.js-323A45?style=for-the-badge&logo=express&logoColor=white) ![REST API](https://img.shields.io/badge/-REST%20API-323A45?style=for-the-badge&logo=swagger&logoColor=85EA2D) ### Databases ![MongoDB](https://img.shields.io/badge/-MongoDB-323A45?style=for-the-badge&logo=mongodb&logoColor=47A248) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-323A45?style=for-the-badge&logo=postgresql&logoColor=4169E1) ![MySQL](https://img.shields.io/badge/-MySQL-323A45?style=for-the-badge&logo=mysql&logoColor=4479A1) ![Redis](https://img.shields.io/badge/-Redis-323A45?style=for-the-badge&logo=redis&logoColor=DC382D) ### Cloud & Hosting ![AWS](https://img.shields.io/badge/-AWS-323A45?style=for-the-badge&logo=amazonaws&logoColor=FF9900) ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-323A45?style=for-the-badge&logo=googlecloud&logoColor=4285F4) ![Firebase](https://img.shields.io/badge/-Firebase-323A45?style=for-the-badge&logo=firebase&logoColor=FFCA28) ![Supabase](https://img.shields.io/badge/-Supabase-323A45?style=for-the-badge&logo=supabase&logoColor=3ECF8E) ![Vercel](https://img.shields.io/badge/-Vercel-323A45?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/-Netlify-323A45?style=for-the-badge&logo=netlify&logoColor=00C7B7) ### DevOps & Infra ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-323A45?style=for-the-badge&logo=githubactions&logoColor=2088FF) ### Tools & Utilities ![Git](https://img.shields.io/badge/-Git-323A45?style=for-the-badge&logo=git&logoColor=F05032) ![VS Code](https://img.shields.io/badge/-VS%20Code-323A45?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC) ![Postman](https://img.shields.io/badge/-Postman-323A45?style=for-the-badge&logo=postman&logoColor=FF6C37) ![Figma](https://img.shields.io/badge/-Figma-323A45?style=for-the-badge&logo=figma&logoColor=F24E1E) ![Notion](https://img.shields.io/badge/-Notion-323A45?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
 
