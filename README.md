@@ -1,34 +1,34 @@
 <p align="center">
-  <a href="https://www.nazish.site"><img src="https://img.shields.io/badge/-portfolio-0b84f3?style=flat&logo=Linkedin&logoColor=white" alt="Website"></a>
-  <a href="https://www.linkedin.com/in/naengineer/"><img src="https://img.shields.io/badge/-naengineer-0b84f3?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.nazish.site"><img src="https://img.shields.io/badge/-portfolio-black?style=flat&logo=Linkedin&logoColor=white" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/naengineer/"><img src="https://img.shields.io/badge/-naengineer-black?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:inazengg@outlook.com">
-    <img src="https://img.shields.io/badge/-inazengg@outlook.com-0b84f3?style=flat&logo=Microsoft-Outlook&logoColor=white" alt="Outlook">
+    <img src="https://img.shields.io/badge/-inazengg@outlook.com-black?style=flat&logo=Microsoft-Outlook&logoColor=white" alt="Outlook">
   </a>
 </p>
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nazish-16&show_icons=true&theme=dark&title_color=0b84f3&icon_color=0b84f3&text_color=ffffff&bg_color=1A1A1A" alt="nazish-16 GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nazish-16&layout=compact&theme=dark&title_color=0b84f3&text_color=ffffff&bg_color=1A1A1A" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nazish-16&show_icons=true" alt="nazish-16 GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nazish-16&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazish-16&theme=dark&background=1A1A1A&ring=0b84f3&fire=0b84f3&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nazish-16" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## GitHub Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nazish-16&bg_color=1A1A1A&color=ffffff&line=0b84f3&point=0b84f3&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nazish-16" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
 ## Code Stats
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nazish-16&theme=github_dark&title_color=0b84f3&text_color=ffffff" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nazish-16&theme=github_dark&title_color=0b84f3&text_color=ffffff" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nazish-16" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nazish-16" />
 </p>
 
 ---
@@ -80,9 +80,9 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nazish-16&color=0b84f3&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/nazish-16?label=Followers&style=flat-square&color=0b84f3" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/nazish-16?color=0b84f3&style=flat-square" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=nazish-16&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/nazish-16?label=Followers&style=flat-square" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/nazish-16?style=flat-square" alt="GitHub Stars" />
 </p>
 
 ---
