@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/naengineer/">
     <img src="https://img.shields.io/badge/-naengineer-111111?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:inazengg@outlook.com">
+  <a href="mailto:realnazishahmed@gmail.com">
     <img src="https://img.shields.io/badge/-email-111111?style=flat&logo=microsoft-outlook&logoColor=white" />
   </a>
 </p>
