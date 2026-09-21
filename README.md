@@ -42,7 +42,6 @@
 ## Tech Stack
 
 ### Programming Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-323A45?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-323A45?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![Python](https://img.shields.io/badge/-Python-323A45?style=for-the-badge&logo=python&logoColor=3776AB)
 ![C](https://img.shields.io/badge/-C-323A45?style=for-the-badge&logo=c&logoColor=A8B9CC)
