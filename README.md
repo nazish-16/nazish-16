@@ -62,7 +62,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-323A45?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-323A45?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![MySQL](https://img.shields.io/badge/-MySQL-323A45?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Redis](https://img.shields.io/badge/-Redis-323A45?style=for-the-badge&logo=redis&logoColor=DC382D)
 
 ### Cloud & Hosting
 ![AWS](https://img.shields.io/badge/-AWS-323A45?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
